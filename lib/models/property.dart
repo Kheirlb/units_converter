@@ -23,6 +23,7 @@ enum PROPERTY {
   speed,
   temperature,
   time,
+  timezone,
   torque,
   volume,
 }
